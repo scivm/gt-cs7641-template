@@ -1,0 +1,18 @@
+
+Sample Framework built for supervised learning methods 
+used in gt-cs7641.
+
+This was done to compare the java based weka package with
+the python based scikit-learn.  
+
+The goal is to see if the implementation of algorithms
+arrives at the same answer.
+
+R is used to generate graphs of the images.
+
+This basic framework can be used for your project work
+giving an example based on the Iris data set that runs 
+the algorithms, generates graphs, creates document template 
+and pdf generation.
+
+Weka v3.6.11 was used.
